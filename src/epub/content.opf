@@ -34,16 +34,18 @@
 		<meta property="term" refines="#subject-1">sh85061165</meta>
 		<meta property="authority" refines="#subject-2">LCSH</meta>
 		<meta property="term" refines="#subject-2">Unknown</meta>
-		<meta property="se:subject">TAG</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
+		<meta property="se:subject">Fiction</meta>
+		<dc:description id="description">A mercenary army, employed by Carthage to fight its wars, rebels after not being paid.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			LONG_DESCRIPTION
+			&lt;p&gt;Carthage’s struggle–or rather, the struggle of its hired mercenaries–against its enemies in the First Punic War has been a success. But now the mercenaries are expecting their fee, and Carthage isn’t willing or able to cover its debts. Incensed, the mercenaries are easily lead into rebellion by a pair who each have their own reasons to launch an attack. Spendius has escaped from slavery in Carthage and wants nothing more than to land a damaging blow on the mighty city-state, while Matho is besotted with the enigmatic and otherworldly priestess Salammbô.&lt;/p&gt;
+			&lt;p&gt;&lt;a href="https://standardebooks.org/ebooks/gustave-flaubert"&gt;Gustave Flaubert’s&lt;/a&gt; vision of the Mercenary War is broadly compatible with historical sources, but never allows accuracy to get in the way of a good story. While characters such as Matho, Spendius and Hamilcar existed and are well documented in sources such as Polybius’ &lt;i&gt;Histories&lt;/i&gt;, Salammbô as a character along with her surroundings allowed Flaubert to expound a more sensual view of Carthagian ritual and excess. Flaubert also didn’t hold back with his descriptions of the intense violence of both the battles and the sacrifices required by the gods.&lt;/p&gt;
+			&lt;p&gt;&lt;i&gt;Salammbô&lt;/i&gt; followed on from the success of &lt;a href="https://standardebooks.org/ebooks/gustave-flaubert/madame-bovary/eleanor-marx-aveling"&gt;&lt;i&gt;Madame Bovary&lt;/i&gt;&lt;/a&gt;, and marked a departure in style for Flaubert. It was, however, another commercial success, and led to a new appreciation in French society for the novel’s setting. The story has been reworked for different media many times over the intervening years, and the character of Salammbô even makes a memorable appearance in the classic film &lt;i&gt;Citizen Kane&lt;/i&gt;.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/1290</dc:source>
 		<dc:source>https://archive.org/details/salammbo00flau1</dc:source>
 		<dc:source>https://archive.org/details/salammbo00flau2</dc:source>
-		<meta property="se:production-notes">PRODUCTION_NOTES</meta>
+		<meta property="se:production-notes">The translator is not listed in the scans, but research points to John Smith Charles: https://web.archive.org/web/20220102174437/https://www.mobileread.com/forums/showthread.php?t=290831</meta>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Salammb%C3%B4</meta>
