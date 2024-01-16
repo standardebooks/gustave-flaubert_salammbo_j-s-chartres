@@ -59,13 +59,13 @@
 		<meta property="file-as" refines="#translator">Chartres, J. S.</meta>
 		<meta property="se:name.person.full-name" refines="#translator">John Smith Chartres</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#translator">https://en.wikipedia.org/wiki/John_Smith_Chartres</meta>
-		<meta property="se:url.authority.nacoaf" refines="#translator">http://id.loc.gov/authorities/no95050606</meta>
+		<meta property="se:url.authority.nacoaf" refines="#translator">http://id.loc.gov/authorities/names/no95050606</meta>
 		<meta property="role" refines="#translator" scheme="marc:relators">trl</meta>
 		<dc:contributor id="artist">Léon Bonnat</dc:contributor>
 		<meta property="file-as" refines="#artist">Bonnat, Léon</meta>
 		<meta property="se:name.person.full-name" refines="#artist">Léon Joseph Florentin Bonnat</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/L%C3%A9on_Bonnat</meta>
-		<meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/authorities/n96008046</meta>
+		<meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/authorities/names/n96008046</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
 		<dc:contributor id="transcriber-1">Anonymous</dc:contributor>
 		<meta property="file-as" refines="#transcriber-1">Anonymous</meta>
