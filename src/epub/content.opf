@@ -37,7 +37,7 @@
 		<meta property="authority" refines="#subject-2">LCSH</meta>
 		<meta property="term" refines="#subject-2">Unknown</meta>
 		<meta property="schema:genre">Fiction</meta>
-		<dc:abstract>A mercenary army, employed by Carthage to fight its wars, rebels after not being paid.</dc:abstract>
+		<meta property="schema:abstract">A mercenary army, employed by Carthage to fight its wars, rebels after not being paid.</meta>
 		<dc:description>
 			&lt;p&gt;Carthage’s struggle–or rather, the struggle of its hired mercenaries–against its enemies in the First Punic War has ended in success. But now the mercenaries are expecting their fee, and Carthage isn’t willing or able to cover its debts. Incensed, the mercenaries are easily lead into rebellion by a pair of their own, each of whom have their own reasons to launch an attack. Spendius has escaped from slavery in Carthage and wants nothing more than to land a damaging blow on the mighty city-state, while Matho is besotted with the enigmatic and otherworldly priestess Salammbô.&lt;/p&gt;
 			&lt;p&gt;&lt;a href="https://standardebooks.org/ebooks/gustave-flaubert"&gt;Flaubert’s&lt;/a&gt; vision of the Mercenary War is broadly compatible with historical sources, but never allows accuracy to get in the way of a good story. While characters such as Matho, Spendius and Hamilcar existed and are well-documented in sources such as Polybius’ &lt;i&gt;Histories&lt;/i&gt;, Salammbô as a character, along with her surroundings, allow Flaubert to paint a more sensual view of Carthagian ritual and excess. He also didn’t hold back with his descriptions of the intense violence of both the battles and the sacrifices required by the gods.&lt;/p&gt;
